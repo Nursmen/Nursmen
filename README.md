@@ -9,4 +9,7 @@ Nursmen/Nursmen is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-I would like to say, that my english not super cool, but I hope I will learn it.
+HELLO WORLD!
+I am Nursultan. Hello.
+I learn to be good programmer.
+Why not?!
