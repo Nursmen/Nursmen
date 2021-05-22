@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nursmen
 - 👀 I’m interested in python and another
 - 🌱 I’m currently learning back-end
-- 💞️ I’m looking to collaborate on google or another big, powerful company
 - 📫 How to reach me nnursultan07@mail.ru
 
 <!---
