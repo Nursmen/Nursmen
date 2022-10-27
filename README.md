@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nnurseultan07@gmail.com**
 
-- ⚡ Fun fact **Short version of my name sounds like 'nurse'**
+- ⚡ Fun fact **short version of my name sounds like 'nurse'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
